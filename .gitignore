@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+*.html
+#If want to ignore other files (like raw data files) use this file. 
